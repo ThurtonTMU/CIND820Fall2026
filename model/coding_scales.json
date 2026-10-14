@@ -1,0 +1,23 @@
+{
+  "autonomy": {
+    "0": "information only",
+    "1": "recommendation with human selection and execution",
+    "2": "execution after explicit approval",
+    "3": "bounded autonomous selection and execution"
+  },
+  "directive_strength": {
+    "1": "advisory",
+    "2": "mandatory"
+  },
+  "permission": "separate category; strength not applicable",
+  "unknown": null,
+  "assessment_unit": "component + activity + version/date + deployment scope",
+  "categorical_dimensions": [
+    "cognitive_type",
+    "learning",
+    "interaction",
+    "cooperation",
+    "mobility"
+  ],
+  "note": "Research adaptation; no composite maturity score."
+}

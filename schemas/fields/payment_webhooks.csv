@@ -1,0 +1,13 @@
+data_id,source_id,source_locator,field_path,declared_type,required,min_length,max_length,semantic_note,unit,observed_value,review_status
+D01,SRC0223,NotificationRequestItem / amount,amount,object,True,,,Payment amount container,,,pending
+D02,SRC0223,NotificationRequestItem / amount.currency,amount.currency,string,True,3,3,ISO currency code,,,pending
+D03,SRC0223,NotificationRequestItem / amount.value,amount.value,integer,True,,,Amount in currency-specific minor units,currency minor units,,pending
+D04,SRC0223,NotificationRequestItem / eventCode,eventCode,string,True,,,Event classification; this endpoint is AUTHORISATION,,,pending
+D05,SRC0223,NotificationRequestItem / eventDate,eventDate,string,True,,,ISO 8601 timestamp as documented,,,pending
+D06,SRC0223,NotificationRequestItem / merchantAccountCode,merchantAccountCode,string,True,,,Merchant account identifier,,,pending
+D07,SRC0223,NotificationRequestItem / merchantReference,merchantReference,string,True,,,Merchant payment reference,,,pending
+D08,SRC0223,NotificationRequestItem / pspReference,pspReference,string,True,,,"Vendor transaction reference; described as 16 characters, not separately encoded here as schema length",,,pending
+D09,SRC0223,NotificationRequestItem / success,success,string,True,,,Documented meanings true/false; keep string type,,,pending
+D10,SRC0223,NotificationRequestItem / reason,reason,string,False,,,Success/failure-dependent information; can include card-related details,,,pending
+D11,SRC0223,NotificationRequestItem / paymentMethod,paymentMethod,string,False,,,Payment method,,,pending
+D12,SRC0223,NotificationRequestItem / operations,operations,array[string],False,,,Experimental; exclude from decision authority,,,pending
