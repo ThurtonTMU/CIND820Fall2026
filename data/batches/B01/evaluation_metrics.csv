@@ -1,0 +1,2 @@
+metric_id,source_id,source_locator,metric,target_value,unit,aggregation,measurement_basis,exclusions,observed_value,deployment_status
+M01,SRC0218,7.2,Quarterly payment-interface uptime target,99.9,percent,quarterly average,ability to receive transaction messages,As specified in section 7.2; full review pending,,standard contract only

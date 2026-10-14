@@ -1,0 +1,7 @@
+activity_id,interaction_id,execution_system_id,activity,source_id
+ACT01,AS01,S01,Collect and pass shopper payment information,SRC0164
+ACT02,AS02,S02,Send API requests and receive responses,SRC0164
+ACT03,AS03,S05,Send authorisation status webhook,SRC0167
+ACT04,AS03,S04,Verify webhook authenticity as recommended,SRC0166
+ACT05,AS03,S04,Respond with HTTP status code,SRC0223
+ACT06,AS04,,Notify vendor of experienced interface downtime,SRC0218

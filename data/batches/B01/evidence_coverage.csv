@@ -1,0 +1,37 @@
+interaction_id,dimension,evidence_status,evidence_scope,source_ids,coding_status,note
+AS01,actors,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,actions,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,input_definitions,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,output_definitions,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,data_types,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,permissions,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,constraints,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,objectives,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS01,consequences,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,actors,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,actions,documented,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,input_definitions,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,output_definitions,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,data_types,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,permissions,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,constraints,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,objectives,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS02,consequences,not_evidenced_in_batch,standard vendor reference,SRC0164,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,actors,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,actions,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,input_definitions,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,output_definitions,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,data_types,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,permissions,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,constraints,documented,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,objectives,not_evidenced_in_batch,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS03,consequences,not_evidenced_in_batch,standard vendor reference,SRC0166; SRC0167; SRC0223,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,actors,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,actions,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,input_definitions,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,output_definitions,not_evidenced_in_batch,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,data_types,not_applicable,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,permissions,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,constraints,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,objectives,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.
+AS04,consequences,documented,standard vendor reference,SRC0218,proposed,Preliminary selected-passage assessment; no exhaustive absence claim. Further extraction may change status.

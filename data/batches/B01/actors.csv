@@ -1,0 +1,4 @@
+actor_id,name,actor_type,carrier_binding,source_id,note
+A01,Reference merchant,organisational role,none assigned,SRC0218,Generic merchant in published terms; not a confirmed local carrier instance
+A02,Adyen,organisation,vendor reference only,SRC0218,Contract/service provider; systems are separate execution components
+A03,Shopper,individual role,none assigned,SRC0164,No personal attributes or real customer records collected

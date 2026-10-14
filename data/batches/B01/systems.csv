@@ -1,0 +1,6 @@
+system_id,name,owner_actor_id,autonomous_agent_status,source_id
+S01,Merchant client website/app,A01,not established,SRC0164
+S02,Merchant payments server,A01,not established,SRC0164
+S03,Adyen Checkout API interface,A02,not established,SRC0164
+S04,Merchant webhook server,A01,not established,SRC0164
+S05,Adyen webhook delivery component,A02,not established,SRC0167
