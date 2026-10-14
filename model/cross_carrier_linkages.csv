@@ -1,0 +1,4 @@
+linkage_id,sender,receiver,data,relationship,evidence_basis,status,function_link
+LINK01,Carrier A reservation or departure-control system,shared baggage messaging service,PNR ticket and baggage references,partner or non-partner,user practitioner account plus public messaging description,specific identifiers and access rules pending authoritative mapping,revenue/fraud downstream use unverified
+LINK02,shared service,Carrier B system,permitted message fields,partner or non-partner,research linkage candidate,proposed; no production edge asserted,decision dependency unresolved
+LINK03,competitor market information,pricing component,market signals,competition,vendor capability descriptions,generic capability; case-specific path unresolved,revenue

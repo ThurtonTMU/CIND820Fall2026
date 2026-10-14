@@ -1,6 +1,0 @@
-relationship_id,from_id,to_id,relation,source_id,evidence_scope,review_status
-R01,A03,S01,PROVIDES_PAYMENT_INFORMATION,SRC0164,standard product architecture,pending
-R02,S01,S02,PASSES_PAYMENT_INFORMATION,SRC0164,standard product architecture,pending
-R03,S02,S03,REQUESTS_AND_RECEIVES_RESPONSE,SRC0164,standard product architecture,pending
-R04,S05,S04,SENDS_WEBHOOK_EVENT,SRC0167,standard product architecture,pending
-R05,A01,A02,NOTIFIES_EXPERIENCED_DOWNTIME,SRC0218,standard product architecture,pending

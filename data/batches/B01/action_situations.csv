@@ -1,5 +1,0 @@
-interaction_id,name,function,scope,implementation_status
-AS01,Shopper payment information handoff,Fraud / payment,standard product reference,carrier-specific implementation unverified
-AS02,Payment API request/response boundary,Fraud / payment,standard product reference,carrier-specific implementation unverified
-AS03,Authorisation webhook handling,Fraud / payment,standard product reference,carrier-specific implementation unverified
-AS04,Payment-interface downtime notification,Fraud / payment / contractual governance,standard contract reference,actual carrier contract applicability unverified

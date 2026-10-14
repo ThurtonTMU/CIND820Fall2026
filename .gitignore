@@ -1,5 +1,4 @@
 data/private/
 __pycache__/
 *.pyc
-.venv/
 .env

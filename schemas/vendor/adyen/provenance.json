@@ -1,0 +1,11 @@
+{
+  "publisher": "Adyen",
+  "upstream_repository": "https://github.com/Adyen/adyen-openapi",
+  "retrieved": "2026-10-14",
+  "upstream_main_at_check": "45520ee6246d7e3d8074c3c5c5e991e65c2c02d6",
+  "version": "Webhooks v1; OpenAPI 3.1.0",
+  "local_scope": "standard vendor schema; carrier configuration unverified",
+  "examples": "Publisher examples are illustrative, not observed transactions",
+  "license": "MIT",
+  "note": "Raw file retrieved just before commit check; pin to checked commit for subsequent retrieval"
+}

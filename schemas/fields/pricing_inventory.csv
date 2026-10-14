@@ -1,0 +1,4 @@
+source_id,locator,native_type,required,default,scope,status
+SRC0298,OfferQueryBuildFromProducts/validateInventoryInd,Boolean,optional,false,GDS; NDC validates inventory at pricing,documented
+SRC0298,OfferQueryBuildFromProducts/reCheckInventoryInd,Boolean,optional,false,temporary booking and release; functional proxy,documented
+SRC0297,ClassOfService/Code/@SeatsLeft,not verified from XSD,unknown,,historical published fare response; current deployment unknown,definition documented; formal type unresolved
